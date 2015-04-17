@@ -3,13 +3,18 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.github.snowindy</groupId>
 	<artifactId>easy-sql-helper</artifactId>
-	<version>0.5.2</version>
+	<version>0.6.0</version>
 	<name>Easy SQL Helper</name>
 	<dependencies>
 		<dependency>
 			<groupId>org.apache.commons</groupId>
 			<artifactId>commons-lang3</artifactId>
 			<version>3.1</version>
+		</dependency>
+		<dependency>
+			<groupId>org.slf4j</groupId>
+			<artifactId>slf4j-api</artifactId>
+			<version>1.7.2</version>
 		</dependency>
 	</dependencies>
 	<build>
